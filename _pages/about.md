@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to My Personal Website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Dr. Huan Luo is an Associate Professor in the College of Civil Engineering & Architecture at China Three Gorges University. His research focus is on integrating cutting-edge artificial intelligence (AI) with civil engineering fundamentals to tackle complex challenges, particularly in:
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+- **​AI-aided Simulation of Large-scale Dynamic Failures**:​​ Utilizing machine learning and deep learning to enhance the accuracy, efficiency, and predictability of simulations for catastrophic dynamic events (e.g., earthquakes, impacts, blast loading) affecting large-scale civil infrastructure.
+
+- **AI-guided Computational Methods**:​​ Developing novel AI-driven approaches to advance computational methodologies in engineering mechanics and scientific computing, aiming for greater efficiency, robustness, and discovery of new solution paradigms.
+
+- ​**Intelligent Modeling and Image Recognition**:​​ Creating smart algorithms for automated model construction and leveraging advanced computer vision (image recognition) techniques for intelligent health monitoring, defect detection, and material characterization in civil engineering contexts.
+
+This website holds information about his research interests, research group, and ongoing and past projects and publications. 
 
 A data-driven personal website
 ======
